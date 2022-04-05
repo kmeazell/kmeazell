@@ -1,5 +1,10 @@
 ### Hi there 👋
+## Kevin Meazell
+
 I am a geologist studying the earth at multiple scales.
+
+[Google Scholar](https://scholar.google.com/citations?user=JdB9FSwAAAAJ&hl=en)
+
 
 <!--
 **kmeazell/kmeazell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
