@@ -5,6 +5,12 @@ I am a geologist studying the earth at multiple scales.
 
 [Google Scholar](https://scholar.google.com/citations?user=JdB9FSwAAAAJ&hl=en)
 
+### Education
+
+- **PhD** in _Geology_, the University of Texas at Austin (2021)
+- **MS** in _Geoscience_, the University of Nevada at Las Vegas (2014)
+- **BS** in _Geology_, the University of Georgia (2009)
+
 
 <!--
 **kmeazell/kmeazell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
