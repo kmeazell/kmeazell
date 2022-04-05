@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ## Kevin Meazell
 
 I am a geologist studying the earth at multiple scales.
